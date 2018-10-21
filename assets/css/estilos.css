@@ -1,0 +1,99 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar__inner {
+	background-color: #121619;
+	border: 0;
+}
+
+.header__inner {
+	background: url(../img/post-image.jpg) no-repeat center;
+	height: 700px;
+	max-width: 100%;
+	display: block;
+	background-size: cover;
+
+}
+.header__inner i {
+	color: #fff;
+	font-size: 60px;
+	padding-top: 220px;
+	display: block;
+
+	text-align: center;
+
+}
+
+.navbar__inner_logo {
+	height: 40px;
+}
+
+.navbar-brand {
+    padding: 10px 15px;
+
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	color: #fff;
+	font-variant: 900;
+	font-style: italic;
+	padding-top: 220px;
+	text-align: center;
+	font-size: 62px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.content {
+	margin: 20px auto!important;
+}
+.content p {
+	color:#707070;
+	line-height: 26px;
+}
+
+.iconos ul {
+	list-style: none;
+	display: block;
+	padding-left: 0px;
+
+}
+.iconos ul li {
+	float: left;
+	background-color: #666;
+	margin: 5px;
+	color: #fff;
+	border-radius: 26px;
+	padding: 8px 12px;
+	font-size: 22px;
+	
+}
+.iconos span {
+	font-size: 14px;
+	margin:0 0 8px 8px;
+}
+
+.autor {
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	padding: 20px;
+}
+
+.post {
+	background: #ddd;
+	padding: 20px;
+}
+
+footer {
+	background: #121619;
+	padding: 20px;
+
+}
+.footer__inner_logo {
+	height: 30px;
+	text-align: center;
+
+}
